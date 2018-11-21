@@ -1,0 +1,39 @@
+{
+  "_id": "page.findability",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.findability--radios.input_auto__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.findability--radios.input_auto__1--radio.Nothelpful",
+          "_type": "radio",
+          "label": "Very hard - I didn't find it",
+          "value": "Nothelpful"
+        },
+        {
+          "_id": "page.findability--radios.input_auto__1--radio.Helfpful",
+          "_type": "radio",
+          "label": "Hard - I found it but it took too long",
+          "value": "Helfpful"
+        },
+        {
+          "_id": "page.findability--radios.input_auto__1--radio.Veryhelpful",
+          "_type": "radio",
+          "label": "Easy - I found it as quickly as I expected",
+          "value": "Veryhelpful"
+        },
+        {
+          "_id": "page.findability--radios.input_auto__1--radio.Veryeasy",
+          "_type": "radio",
+          "label": "Very easy - that was quick!",
+          "value": "Veryeasy"
+        }
+      ],
+      "legend": "How easy was it to find what you were looking for?",
+      "name": "input_auto__1"
+    }
+  ],
+  "url": "findability"
+}
