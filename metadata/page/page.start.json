@@ -6,6 +6,7 @@
   "steps": [
     "page.findability",
     "page.context",
+    "page.checkanswers",
     "page.confirm"
   ],
   "url": "/"
